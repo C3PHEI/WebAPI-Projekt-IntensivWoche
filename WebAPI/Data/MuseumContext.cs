@@ -12,8 +12,4 @@ public class MuseumContext : DbContext
     {
     }
 
-    protected override void OnModelCreating(ModelBuilder modelBuilder)
-    {
-        // Model configuration code goes here
-    }
 }
